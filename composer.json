@@ -1,6 +1,6 @@
 {
-    "name": "probablyrational/wasabi-storage",
-    "description": "A wasabi storage driver for Laravel",
+    "name": "luppakorva/wasabi-storage",
+    "description": "A wasabi storage driver for Laravel 7 update",
     "type": "library",
     "require": {
         "php": "^7.1",
