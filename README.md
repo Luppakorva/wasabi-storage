@@ -3,7 +3,7 @@
 A [Wasabi](https://wasabi.com/) storage driver for Laravel.
 
 This packages uses the AWS S3 storage driver but changes it to use Wasabi endpoints. It should work exactly the same way and support all the same features.
-
+- This fork is an update for Laravel 8. You can find Laravel 7 compatible version by using version 1.3
 ## Installation
 
 ```bash
